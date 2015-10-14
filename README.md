@@ -1,1 +1,1 @@
-Â#devtemp
+#devtemp
